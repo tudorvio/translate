@@ -1,0 +1,2 @@
+# translate
+Google Translate cli.
